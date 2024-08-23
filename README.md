@@ -1,3 +1,5 @@
 # TextUtils-React
-A React.js web application for performing various text manipulation tasks such as counting words, reversing text, and more <br>
+## Introduction
+TextUtils-Reactjs is a versatile text utility application built with React.js. It offers a range of tools to manipulate and analyze text, such as word count, character count, text reversal, and more. This project is ideal for anyone looking to perform quick text transformations or for developers needing a starting point for more advanced text-processing applications.
+<br>
 Website Link : https://mytexteditor-react.netlify.app
